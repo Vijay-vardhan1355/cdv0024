@@ -1,5 +1,5 @@
 def check_number(n):
-    if n2 == 0:
+    if n % 2 == 0:
         return "Even"
     return "Odd"
 
